@@ -7,3 +7,11 @@
 - GRU
 - LSTM
 - Transformers
+
+### Advanced
+
+- GNN
+- GCNN
+- Graformer
+- Neural Turing Machine
+- Neural ODE
